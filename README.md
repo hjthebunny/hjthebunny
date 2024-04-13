@@ -14,7 +14,7 @@ Language & Tools
 ![git](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
 ![figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=Figma&logoColor=white)
 ![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white)
-![discord](https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white)
+![discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=Discord&logoColor=white)
 <br><br>
 
 🔎 **Currently Studying**<br><br>
