@@ -20,6 +20,7 @@ Language & Tools
 🔎 **Currently Studying**<br><br>
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=TypeScript&logoColor=white)
 ![next](https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white)
+![python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white)
 <!---
 hjthebunny/hjthebunny is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
